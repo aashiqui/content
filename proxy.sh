@@ -8,7 +8,6 @@ read -p "Type your domain name, then press [ENTER] : " MY_DOMAIN
 echo "Please provide a Proxy IP "
 read -p "Type your IP, then press [ENTER] : " IP
 
-read -t 30 -p "Thank you. Please press [ENTER] continue or [Control]+[C] to cancel"
 echo "Provided Domain : $MY_DOMAIN and IP : $IP"
 
 
